@@ -1,8 +1,8 @@
 # Exercicios-.js---DIO
 Aqui estão as resoluções dos exercícios das aulas de javascript da DIO
 
-<h2>Enunciados</h2>
-<p>1) Faça um algorítmo que dado as 3 notas tiradas 
+<h2>Exercício 1</h2>
+<p>Faça um algorítmo que dado as 3 notas tiradas 
 por um aluno em um semestre da faculdade, calcule 
 e imprima a sua média e a sua classificação, conforme a tabela abaixo.
 	
@@ -12,10 +12,9 @@ Classificação:
 - Média menor que 5, reprovação;
 - Média entre 5 e 7, recuperação
 - Média acima de 7, passou de semestre;</p>
-	
----------------------------------------------------------------xxxxxxxxxx---------------------------------------------------------------
 
-<p>2) O IMC - Índice de Massa Corporal, é um critério da 
+<h2>Exercício 2</h2>
+<p>O IMC - Índice de Massa Corporal, é um critério da 
 Organzação Mundial de Saúde para dar uma indicação 
 sobre a condição de peso de uma pessoa adulta.
 	
@@ -32,9 +31,8 @@ IMC em adultos - Condição:
 - Entre 30 e 40 - Obeso;
 - Acima de 40 - Obesidade Grave;</p>
 
----------------------------------------------------------------xxxxxxxxxx---------------------------------------------------------------
-
-<p>3) Elabore um algorítmo que calcule o que deve ser pago por um produto, 
+<h2>Exercício 3</h2>
+<p>Elabore um algorítmo que calcule o que deve ser pago por um produto, 
 considerando o preço normal de etiqueta e a escolha da condiçãode pagamento.
 Utilize os códigos da tabela a seguir para ler qual a condição de pagamento 
 escolhida e efetuar o cálculo adequado.
