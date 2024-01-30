@@ -66,7 +66,7 @@ console.log('Calculadora de IMC');
 let altura_metros = 1.67;
 let peso_kg = 51;
 
-let imc = (altura_metros*altura_metros)/peso_kg;
+let imc = peso_kg/(altura_metros*altura_metros);
 
 if (imc<18.5){
 	console.log('O IMC é de: ',imc.toFixed(2),'Kg/m');
